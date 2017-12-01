@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StepCoin_v1.Account">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAkAAAAAAAAAgAACAAAAAAgAAAA=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StepCoin_v1.AccountList">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AccountList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StepCoin_v1.TransactionsValidator">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAEAACAAAAEIAAQAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>TransactionsValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StepCoin_v1.Miner">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAgQACAAAAAQAgAAA=</HashCode>
+      <FileName>Miner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StepCoin_v1.Validator">
+    <Position X="7.75" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAABEAAAgCAAAAAAAAEAACAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StepCoin_v1.BookKeeper">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BookKeeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StepCoin_v1.BlockChain">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAgAAAAAAQAAAIAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BlockChain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StepCoin_v1.Transaction">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQAAAAgAAEBAASAACAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Transaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StepCoin_v1.Block">
+    <Position X="5.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAACAAAAAAAAgAEAAGEAAABACAA=</HashCode>
+      <FileName>Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

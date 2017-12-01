@@ -1,0 +1,9 @@
+D:\IT Step\BlockChain\StepCoin v1\StepCoin v1\bin\Debug\StepCoin v1.exe.config
+D:\IT Step\BlockChain\StepCoin v1\StepCoin v1\obj\Debug\StepCoin v1.csprojResolveAssemblyReference.cache
+D:\IT Step\BlockChain\StepCoin v1\StepCoin v1\bin\Debug\StepCoin v1.exe
+D:\IT Step\BlockChain\StepCoin v1\StepCoin v1\bin\Debug\StepCoin v1.pdb
+D:\IT Step\BlockChain\StepCoin v1\StepCoin v1\obj\Debug\StepCoin v1.exe
+D:\IT Step\BlockChain\StepCoin v1\StepCoin v1\obj\Debug\StepCoin v1.pdb
+C:\Users\student\Downloads\StepCoin v1\StepCoin v1\bin\Debug\StepCoin v1.exe.config
+C:\Users\student\Downloads\StepCoin v1\StepCoin v1\obj\Debug\StepCoin v1.exe
+C:\Users\student\Downloads\StepCoin v1\StepCoin v1\obj\Debug\StepCoin v1.pdb
